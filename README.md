@@ -1,6 +1,6 @@
 # Docker Node MongoDB Example
 
-> Simple example of a dockerized Node/Mongo app
+> Simple example of a dockerized Node/Mongo app from Traversy Media's YouTube channel:  https://www.youtube.com/watch?v=hP77Rua1E0c
 
 ## Quick Start
 
